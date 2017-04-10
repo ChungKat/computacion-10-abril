@@ -1,3 +1,7 @@
+body{
+background: rgb(225,225,225);
+}
+
 header,section,aside,footer{
   background: #fff;
 }
